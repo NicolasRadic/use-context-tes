@@ -4,12 +4,12 @@
 
 Little app to learn The react hook useContext.
 
----
+\
+&nbsp;
+\
+&nbsp;
 
-\
-&nbsp;
-\
-&nbsp;
+---
 
 # Getting Started with Create React App
 
