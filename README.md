@@ -2,7 +2,7 @@
 
 ## React hook learning project
 
-Little app to learn The react hook useContext.
+Little app to learn the react hook useContext.
 
 \
 &nbsp;
